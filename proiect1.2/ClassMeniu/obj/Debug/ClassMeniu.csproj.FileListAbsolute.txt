@@ -1,0 +1,6 @@
+D:\PIU Teme\proiect1.2\ClassMeniu\bin\Debug\ClassMeniu.dll
+D:\PIU Teme\proiect1.2\ClassMeniu\bin\Debug\ClassMeniu.pdb
+D:\PIU Teme\proiect1.2\ClassMeniu\obj\Debug\ClassMeniu.csproj.AssemblyReference.cache
+D:\PIU Teme\proiect1.2\ClassMeniu\obj\Debug\ClassMeniu.csproj.CoreCompileInputs.cache
+D:\PIU Teme\proiect1.2\ClassMeniu\obj\Debug\ClassMeniu.dll
+D:\PIU Teme\proiect1.2\ClassMeniu\obj\Debug\ClassMeniu.pdb

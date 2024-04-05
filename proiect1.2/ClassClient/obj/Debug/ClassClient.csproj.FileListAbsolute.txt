@@ -1,0 +1,6 @@
+D:\PIU Teme\proiect1.2\ClassClient\bin\Debug\ClassClient.dll
+D:\PIU Teme\proiect1.2\ClassClient\bin\Debug\ClassClient.pdb
+D:\PIU Teme\proiect1.2\ClassClient\obj\Debug\ClassClient.csproj.AssemblyReference.cache
+D:\PIU Teme\proiect1.2\ClassClient\obj\Debug\ClassClient.csproj.CoreCompileInputs.cache
+D:\PIU Teme\proiect1.2\ClassClient\obj\Debug\ClassClient.dll
+D:\PIU Teme\proiect1.2\ClassClient\obj\Debug\ClassClient.pdb

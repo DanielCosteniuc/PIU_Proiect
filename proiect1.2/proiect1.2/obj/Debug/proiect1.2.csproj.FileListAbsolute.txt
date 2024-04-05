@@ -1,0 +1,14 @@
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\proiect1.2.exe.config
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\proiect1.2.exe
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\proiect1.2.pdb
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\ClassClient.dll
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\ClassMeniu.dll
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\Nivel_StocareDate.dll
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\ClassClient.pdb
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\ClassMeniu.pdb
+D:\PIU Teme\proiect1.2\proiect1.2\bin\Debug\Nivel_StocareDate.pdb
+D:\PIU Teme\proiect1.2\proiect1.2\obj\Debug\proiect1.2.csproj.AssemblyReference.cache
+D:\PIU Teme\proiect1.2\proiect1.2\obj\Debug\proiect1.2.csproj.CoreCompileInputs.cache
+D:\PIU Teme\proiect1.2\proiect1.2\obj\Debug\proiect1.2.csproj.CopyComplete
+D:\PIU Teme\proiect1.2\proiect1.2\obj\Debug\proiect1.2.exe
+D:\PIU Teme\proiect1.2\proiect1.2\obj\Debug\proiect1.2.pdb
